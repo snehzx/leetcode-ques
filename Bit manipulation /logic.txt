@@ -1,0 +1,7 @@
+^ is bitwise XOR.
+XOR gives 1 in each bit position where the bits differ, and 0 where they’re the same.
+This is perfect for the problem because we need to track the bit change and convert it from start to goal.
+If a bit is different, we must flip it → marked by 1 in xor.
+If a bit is the same, no flip needed → 0.
+In such way we can count the no of bit flipped.
+
