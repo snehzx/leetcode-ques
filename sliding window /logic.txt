@@ -1,0 +1,8 @@
+sliding window is popularly used in arr and subarr or strings and when size of the window is given
+it is of two types
+1.fixed sliding window:
+first find the sum of first k element and initialise it to max sum
+then slide the window towards right and the new ele and subtract the leftmost one 
+then compare the max sum to the new sum
+update it
+2.dynamic sliding window:
