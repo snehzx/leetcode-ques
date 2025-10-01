@@ -1,0 +1,6 @@
+cyclic sort is a type of sorting done when you have specifically given an array of range [1,n] or lets say [0,n]
+it does not just sort like usual sorting it places the element at its right index.. if arr size of [1,n] then elements will be placed for 
+index 0 element 1 will be placed and so on ..
+it is used to find duplicate in such arrays or minimum or maximnum
+
+
